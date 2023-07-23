@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoundscapesPage</string>
+    <string name="stop_option3">stop option3</string>
+    <string name="play_option3">play option3</string>
+</resources>
