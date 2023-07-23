@@ -61,7 +61,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="-60dp"
         android:onClick="play1"
-        android:text="play option1" />
+        android:text="play white noise" />
 
     <Button
         android:layout_width="wrap_content"
@@ -72,7 +72,7 @@
         android:layout_marginTop="-60dp"
         android:layout_marginEnd="50dp"
         android:onClick="stop1"
-        android:text="stop option1" />
+        android:text="stop sound 1" />
 
     <Button
         android:layout_width="wrap_content"
@@ -82,7 +82,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="0dp"
         android:onClick="play2"
-        android:text="play option2" />
+        android:text="play stream" />
 
     <Button
         android:layout_width="wrap_content"
@@ -92,7 +92,7 @@
         android:layout_marginTop="0dp"
         android:layout_marginEnd="50dp"
         android:onClick="stop2"
-        android:text="stop option2" />
+        android:text="stop sound 2" />
 
     <Button
         android:layout_width="wrap_content"
@@ -102,7 +102,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="60dp"
         android:onClick="play3"
-        android:text="play option3" />
+        android:text="play bird noise" />
 
     <Button
         android:layout_width="wrap_content"
@@ -112,7 +112,7 @@
         android:layout_marginTop="60dp"
         android:layout_marginEnd="50dp"
         android:onClick="stop3"
-        android:text="stop option3" />
+        android:text="stop sound 3" />
 
     <Button
         android:layout_width="wrap_content"
@@ -122,7 +122,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="120dp"
         android:onClick="play4"
-        android:text="play option4" />
+        android:text="play waves" />
 
     <Button
         android:layout_width="wrap_content"
@@ -132,7 +132,7 @@
         android:layout_marginTop="120dp"
         android:layout_marginEnd="50dp"
         android:onClick="stop4"
-        android:text="stop option4" />
+        android:text="stop sound 4" />
 
     <Button
         android:layout_width="wrap_content"
@@ -142,7 +142,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="180dp"
         android:onClick="play5"
-        android:text="play option5" />
+        android:text="play crackling" />
 
     <Button
         android:layout_width="wrap_content"
@@ -152,7 +152,7 @@
         android:layout_marginTop="180dp"
         android:layout_marginEnd="50dp"
         android:onClick="stop5"
-        android:text="stop option5" />
+        android:text="stop sound 5" />
 
     <Button
         android:layout_width="wrap_content"
@@ -162,7 +162,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="240dp"
         android:onClick="play6"
-        android:text="play option6" />
+        android:text="play city noise" />
 
     <Button
         android:layout_width="wrap_content"
@@ -172,7 +172,7 @@
         android:layout_marginTop="240dp"
         android:layout_marginEnd="50dp"
         android:onClick="stop6"
-        android:text="stop option6" />
+        android:text="stop sound 6" />
 
     <Button
         android:layout_width="wrap_content"
@@ -182,7 +182,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="300dp"
         android:onClick="play7"
-        android:text="play option7" />
+        android:text="play wind" />
 
     <Button
         android:layout_width="wrap_content"
@@ -192,7 +192,7 @@
         android:layout_marginTop="300dp"
         android:layout_marginEnd="50dp"
         android:onClick="stop7"
-        android:text="stop option7" />
+        android:text="stop sound 7" />
 
     <Button
         android:layout_width="wrap_content"
@@ -202,7 +202,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="360dp"
         android:onClick="play8"
-        android:text="play option8" />
+        android:text="play underwater" />
 
     <Button
         android:layout_width="wrap_content"
@@ -212,6 +212,6 @@
         android:layout_marginTop="360dp"
         android:layout_marginEnd="50dp"
         android:onClick="stop8"
-        android:text="stop option8" />
+        android:text="stop sound 8" />
 
 </RelativeLayout>
